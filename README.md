@@ -1,1 +1,2 @@
  MY FIRST GIT PROJECT: THIS IS A TEST PROJECT TO LEARN GIT
+Gaining mastery with git.
